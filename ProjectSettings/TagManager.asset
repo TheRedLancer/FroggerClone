@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Vehicle
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1856543869
+    locked: 0
+  - name: Vehicle
+    uniqueID: 3212179875
+    locked: 0
+  - name: Border
+    uniqueID: 1503924023
+    locked: 0
+  - name: Player
+    uniqueID: 3589209911
+    locked: 0
+  - name: Pickup
+    uniqueID: 3620385279
     locked: 0
